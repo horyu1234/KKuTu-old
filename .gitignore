@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# KKuTu
+Client/node_modules
+Server/run.bat
+Server/node_modules
+Server/lib/node_modules
+settings.json
+Server/lib/sub/global.json
